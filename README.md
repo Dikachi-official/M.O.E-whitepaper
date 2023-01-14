@@ -1,2 +1,2 @@
 # M.O.E-whitepaper
-<li>Details and Roadmap initiative of Sui Project</li>
+<li>Details and Roadmap Initiative of Sui Project</li>
